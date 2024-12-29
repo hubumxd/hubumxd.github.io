@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,6 +40,12 @@
             margin-top: 10px;
             font-size: 18px; /* 增加字体大小 */
             line-height: 1.5; /* 增加行间距 */
+        }
+        .motivational {
+            margin-top: 10px;
+            font-size: 18px; /* 增加字体大小 */
+            font-style: italic; /* 斜体 */
+            color: #ffdd57; /* 设置颜色以突出显示 */
         }
         .knowledge {
             margin-top: 40px;
@@ -89,6 +95,7 @@
         <img src="b_5780fd8353480421da66102fe6b971f0.jpg" alt="Profile Photo" class="profile-img">
         <h1 class="name">hubumxd</h1>
         <p class="bio">欢迎来到我的个人主页！我是一名热爱编程和开源的开发者，乐于分享和学习新知识。</p>
+        <p class="motivational">纵使困顿难行，亦当砥砺奋进！</p>
     </div>
 
     <div class="knowledge">
